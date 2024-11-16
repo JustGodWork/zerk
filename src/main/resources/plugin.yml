@@ -1,0 +1,4 @@
+name: zerk
+version: '1.0-SNAPSHOT'
+main: com.justgod.zerk.Zerk
+api-version: '1.21'
